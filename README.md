@@ -8,3 +8,4 @@ Lot Allocation Management Module (LAMM) Accounts
 
 In LAMM accounts, the investor chooses the amount of lots that can be traded in the market, and the profits or losses are determined according to the multiples of lots invested in the market. LAMM is a more basic iteration of the PAMM account that aims to lower the risk of trading and is usually suited for larger accounts that have a higher trading capital. LAMM accounts are typically used when percentage allocation loses significance due to the higher trading capital, as a higher trading capital will have significant issues while filling orders at the interbank exchanges.
 
+# This is a full-featured application for managing LAMM accounts #
